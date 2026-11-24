@@ -1,0 +1,13 @@
+video,seed,independent_false_overlap,reference_false_overlap,independent_span,span_pass,cost_pass
+Vid1,7,257.0,257.0,239,True,True
+Vid1,17,0.0,0.0,239,True,True
+Vid2,7,18747.0,18747.0,208,True,True
+Vid2,17,18747.0,18747.0,208,True,True
+Vid3,7,6185.0,6185.0,256,True,True
+Vid3,17,9859.0,9859.0,256,True,True
+Vid4,7,0.0,0.0,100,True,True
+Vid4,17,0.0,0.0,100,True,True
+Vid5,7,5634.0,5634.0,229,True,True
+Vid5,17,5183.0,5183.0,229,True,True
+Vid6,7,8325.0,8325.0,404,True,True
+Vid6,17,8325.0,8325.0,404,True,True
